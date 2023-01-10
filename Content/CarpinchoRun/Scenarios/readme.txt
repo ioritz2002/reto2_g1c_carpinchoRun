@@ -1,0 +1,1 @@
+This folder contains the scenarios of the game

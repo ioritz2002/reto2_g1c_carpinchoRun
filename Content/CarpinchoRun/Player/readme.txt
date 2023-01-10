@@ -1,0 +1,1 @@
+This folder contains the player character and every content related to it
